@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Financial table styles */
+.negative-value {
+  color: #dc2626;
+}
+
+.positive-value {
+  color: #16a34a;
+}
+
+/* Editable cell highlight */
+.editable-cell {
+  background-color: #fefce8;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.editable-cell:hover {
+  background-color: #fef9c3;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}

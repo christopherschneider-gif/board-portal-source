@@ -1,0 +1,1554 @@
+[
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "Income",
+    "name": "Operating Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "40000",
+    "name": "40000 - Common Charges"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "40001",
+    "name": "40001 - Common Charges - Parking"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "40002",
+    "name": "40002 - Common Charges - Storage"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "40010",
+    "name": "40010 - Maintenance Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "40020",
+    "name": "40020 - Rental Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "42200",
+    "name": "42200 - Commercial Rent Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "46500",
+    "name": "46500 - Operating Assessment 1"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "46501",
+    "name": "46501 - Operating Assessment 2"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "46502",
+    "name": "46502 - Operating Assessment 3"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "40015",
+    "name": "40015 - HOA Dues"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Income",
+    "category_order": 1,
+    "gl_code": "40016",
+    "name": "40016 - FPOA Dues"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "",
+    "name": "Misc. Operating Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "42100",
+    "name": "42100 - Sublet Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "42150",
+    "name": "42150 - Application Fees"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "43000",
+    "name": "43000 - Late Fee Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "43100",
+    "name": "43100 - Non-sufficient funds (NSF) fee"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "43150",
+    "name": "43150 - Owner Security Deposit Forfeit"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "43200",
+    "name": "43200 - Legal Fees Charged to Owners Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "43300",
+    "name": "43300 - Flip Tax Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "43500",
+    "name": "43500 - Fines & Violations Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44100",
+    "name": "44100 - Storage Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44150",
+    "name": "44150 - Bike Storage"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44400",
+    "name": "44400 - Credit Card Convenience Fee"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44450",
+    "name": "44450 - Owner Contribution Convenience Fee"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44500",
+    "name": "44500 - Key / Remote Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44600",
+    "name": "44600 - Maintenance & Repairs Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44700",
+    "name": "44700 - Renters Insurance Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44800",
+    "name": "44800 - Property Tax Reimbursement Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "44900",
+    "name": "44900 - R/E Tax Refund"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46000",
+    "name": "46000 - Misc Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46100",
+    "name": "46100 - Utility Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46200",
+    "name": "46200 - Laundry Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46300",
+    "name": "46300 - Parking Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46101",
+    "name": "Utility Income - Steam"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46102",
+    "name": "Utility Income - Electric HVAC"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46103",
+    "name": "Utility Income - Cooling Tower Water"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46104",
+    "name": "Utility Income - Laundry Gas"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46105",
+    "name": "Utility Income - Steam Condenser"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "49310",
+    "name": "Gym Fees"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46600",
+    "name": "46600 - Move-out fee"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46700",
+    "name": "46700 - Move-in fee"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "46710",
+    "name": "46710 - Alteration Fee"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "47000",
+    "name": "47000 - Tax Abatement Special Assessment"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "47100",
+    "name": "47100 - Tax Abatement Reimbursement to Owners"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "49000",
+    "name": "49000 - Antenna & Licensing Fees / Access Agreements"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "49300",
+    "name": "49300 - Amenity Reservation Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "84100",
+    "name": "84100 - Chargeback to Owners for Exp Paid on Behalf"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "43050",
+    "name": "43050 - Interest Fee from Resident"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Misc. Operating Income",
+    "category_order": 2,
+    "gl_code": "42250",
+    "name": "42250 - Security Services Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "",
+    "name": "Other Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "49110",
+    "name": "49110 - Working Capital Contribution from Owner"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "49120",
+    "name": "49120 - Flip Tax"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "49200",
+    "name": "49200 - Sponsor Contribution"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84000",
+    "name": "84000 - Insurance Recovery Proceeds"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84001",
+    "name": "84001 - Insurance Recovery Proceeds Distributed to Owners"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84200",
+    "name": "84200 - Transfer from the Reserve Account"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84210",
+    "name": "84210 - Transfer from the Escrow Account"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84500",
+    "name": "84500 - Interest Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84510",
+    "name": "84510 - Dividend Income"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84520",
+    "name": "84520 - Unrealized Gains (Losses)"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84600",
+    "name": "84600 - Proceeds from Mortgage, Loan, or Refinance"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84700",
+    "name": "84700 - Legal Settlement Proceeds"
+  },
+  {
+    "parent_order": 2,
+    "parent_category": "Income",
+    "category": "Other Income",
+    "category_order": 3,
+    "gl_code": "84350",
+    "name": "Other Non Operating Income"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51",
+    "name": "Administrative Expenses"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51100",
+    "name": "51100 - Management Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51110",
+    "name": "51110 - Mgmt Advisory fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51120",
+    "name": "51120 - Bad Debt / Write Off Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51200",
+    "name": "51200 - Legal Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51210",
+    "name": "51210 - Accounting / Audit / Tax Services"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51220",
+    "name": "51220 - Prof. Fees for Tax Abatement / Certiorari"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51230",
+    "name": "51230 - Other Professional Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51400",
+    "name": "51400 - Office Supplies"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51410",
+    "name": "51410 - Subscriptions & Misc. Dues"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51420",
+    "name": "51420 - Donation/Charitable Contributions"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51430",
+    "name": "51430 - Postage and Delivery"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51440",
+    "name": "51440 - Lockbox Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51450",
+    "name": "51450 - Electronic Document Storage Fee"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51460",
+    "name": "51460 - Document Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51470",
+    "name": "51470 - Credit Card Convenience Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51471",
+    "name": "51471 - Bank Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Administrative Expenses",
+    "category_order": 4,
+    "gl_code": "51999",
+    "name": "51999 - Other Administrative Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Insurance",
+    "category_order": 5,
+    "gl_code": "510",
+    "name": "Insurance"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Insurance",
+    "category_order": 5,
+    "gl_code": "51000",
+    "name": "51000 - Insurance policies"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "515",
+    "name": "Compliance & Monitoring"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "51500",
+    "name": "51500 - Licenses/ Permits/ Registration Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "51510",
+    "name": "51510 - Penalties/Fines"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "51520",
+    "name": "51520 - Fire Inspections"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "51530",
+    "name": "51530 - Elevator Inspection & CAT 1/5 Test"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "51535",
+    "name": "51535 - Plumbing Inspection"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "51540",
+    "name": "51540 - Misc. Inspection fee"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Compliance & Monitoring",
+    "category_order": 6,
+    "gl_code": "51545",
+    "name": "51545 - Compliance Monitoring Fee"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52",
+    "name": "Building Operating Expenses"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52010",
+    "name": "52010 - Rent Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52005",
+    "name": "52005 - Common Charge Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52015",
+    "name": "52015 - Waste Removal, Compactor Service/Cleaning"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52020",
+    "name": "52020 - Parking Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52025",
+    "name": "52025 - Laundry & Uniforms"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52030",
+    "name": "52030 - Cleaning & General Maintenance Services"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52035",
+    "name": "52035 - Cleaning & General Maintenance Supplies"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52040",
+    "name": "52040 - Snow removal"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52045",
+    "name": "52045 - Window Cleaning"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52100",
+    "name": "52100 - IT Services"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52200",
+    "name": "52200 - Club House & Community Events"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52300",
+    "name": "52300 - Fitness Classes/Subscriptions, or Gym Equipment"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52350",
+    "name": "52350 - Water Delivery Services"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52500",
+    "name": "52500 - Security/Concierge Services"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52510",
+    "name": "52510 - Intercom Service Contract"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52550",
+    "name": "52550 - Fire Monitoring"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52560",
+    "name": "52560 - Sprinkler/Standpipe System"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52600",
+    "name": "52600 - Pest Control Services"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52700",
+    "name": "52700 - Boiler Service Contract"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52725",
+    "name": "52725 - Elevator - Contract"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52750",
+    "name": "52750 - HVAC Service Contract"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52775",
+    "name": "52775 - Water Treatments / Cooling Tower Service Contract"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52800",
+    "name": "52800 - Landscape Contract, Flowers, Plants"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52999",
+    "name": "52999 - Misc. Building Operating Expenses"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "85600",
+    "name": "85600 - Reimbursement of Opex Expenses to Owner"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Building Operating Expenses",
+    "category_order": 7,
+    "gl_code": "52650",
+    "name": "52650 - Storage Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50",
+    "name": "Payroll Expenses"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50900",
+    "name": "50900 - Wages"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50905",
+    "name": "50905 - Overtime"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50910",
+    "name": "50910 - Benefits"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50920",
+    "name": "50920 - Workers' Compensation, EPLI, & Disability"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50925",
+    "name": "50925 - Employer Paid Taxes"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50930",
+    "name": "50930 - Payroll Administration Fees"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50960",
+    "name": "50960 - Commissions & Bonuses"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50970",
+    "name": "50970 - Employee Reimbursement"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "50990",
+    "name": "50990 - Third Party Contractors (e.g. 1099 Supers)"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Payroll Expenses",
+    "category_order": 8,
+    "gl_code": "52000",
+    "name": "52000 - Common Charge & Rent for Building Employee"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Utilities",
+    "category_order": 9,
+    "gl_code": "66",
+    "name": "Utilities"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Utilities",
+    "category_order": 9,
+    "gl_code": "66000",
+    "name": "66000 - Electricity"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Utilities",
+    "category_order": 9,
+    "gl_code": "66100",
+    "name": "66100 - Gas"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Utilities",
+    "category_order": 9,
+    "gl_code": "66300",
+    "name": "66300 - Water / Sewer"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Utilities",
+    "category_order": 9,
+    "gl_code": "66400",
+    "name": "66400 - Oil"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Utilities",
+    "category_order": 9,
+    "gl_code": "66050",
+    "name": "66050 - Utility Management Services"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Utilities",
+    "category_order": 9,
+    "gl_code": "66600",
+    "name": "66600 - Cable/ Satellite/Internet/Telephone"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Taxes",
+    "category_order": 10,
+    "gl_code": "505",
+    "name": "Taxes"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Taxes",
+    "category_order": 10,
+    "gl_code": "50520",
+    "name": "50520 - Corporate Taxes"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Taxes",
+    "category_order": 10,
+    "gl_code": "50530",
+    "name": "50530 - Property Taxes"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Taxes",
+    "category_order": 10,
+    "gl_code": "50540",
+    "name": "50540 - Misc Tax"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60",
+    "name": "Non-Recurring- Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60000",
+    "name": "60000 - Elevator Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60100",
+    "name": "60100 - Electrical Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60510",
+    "name": "60510 - Roof Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60615",
+    "name": "60615 - Window Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60200",
+    "name": "60200 - Plumbing Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60300",
+    "name": "60300 - Boiler & Water Tank Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60360",
+    "name": "60360 - Cooling Tower Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60640",
+    "name": "60640 - Sprinkler/Standpipe Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60650",
+    "name": "60650 - Water Damage Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60655",
+    "name": "60655 - Mold & Remediation"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60350",
+    "name": "60350 - HVAC Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60400",
+    "name": "60400 - IT & Intercom Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60500",
+    "name": "60500 - Ext. Repair & One time Landscap projects"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60610",
+    "name": "60610 - Door & Lock Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60620",
+    "name": "60620 - Gym Equipment Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60630",
+    "name": "60630 - Common Area Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60645",
+    "name": "60645 - Fire Monitoring System Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60900",
+    "name": "60900 - Repair Supplies"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Non-Recurring- Repairs",
+    "category_order": 11,
+    "gl_code": "60999",
+    "name": "60999 - Misc Repairs"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Mortgage",
+    "category_order": 12,
+    "gl_code": "85",
+    "name": "Mortgage"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Mortgage",
+    "category_order": 12,
+    "gl_code": "85000",
+    "name": "85000 - Mortgage Interest 1"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Mortgage",
+    "category_order": 12,
+    "gl_code": "85001",
+    "name": "85001 - Mortgage Interest 2"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Mortgage",
+    "category_order": 12,
+    "gl_code": "85010",
+    "name": "85010 - Mortgage Principal 1"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Mortgage",
+    "category_order": 12,
+    "gl_code": "85011",
+    "name": "85011 - Mortgage Principal 2"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Mortgage",
+    "category_order": 12,
+    "gl_code": "85020",
+    "name": "85020 - Other Mortgage Expense"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Reserve Contributions/Transfers",
+    "category_order": 13,
+    "gl_code": "852",
+    "name": "Reserve Contributions/Transfers"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Reserve Contributions/Transfers",
+    "category_order": 13,
+    "gl_code": "85500",
+    "name": "85500 - Reserve Contributions/Transfers"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Reserve Contributions/Transfers",
+    "category_order": 13,
+    "gl_code": "85510",
+    "name": "85510 - Escrow Contribution (Transfer to Escrow)"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Reserve Contributions/Transfers",
+    "category_order": 13,
+    "gl_code": "85520",
+    "name": "85520 - Capex Contribution (Transfer to Capex)"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Reserve Contributions/Transfers",
+    "category_order": 13,
+    "gl_code": "84300",
+    "name": "84300 - Transfer From Operating to Reserve"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Reserve Contributions/Transfers",
+    "category_order": 13,
+    "gl_code": "85215",
+    "name": "85215 - Transfer To (From) Security Deposit Account"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Reserve Contributions/Transfers",
+    "category_order": 13,
+    "gl_code": "85530",
+    "name": "85530 - Transfer to Security Deposits"
+  },
+  {
+    "parent_order": 4,
+    "parent_category": "Reserve Contributions/Transfers",
+    "category": "Other Expenses",
+    "category_order": 14,
+    "gl_code": "851",
+    "name": "Other Expenses"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Other Expenses",
+    "category_order": 14,
+    "gl_code": "85100",
+    "name": "85100 - Other Interest Expense"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Other Expenses",
+    "category_order": 14,
+    "gl_code": "85999",
+    "name": "85999 - Contingency Expenses for Budget Only"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Other Expenses",
+    "category_order": 14,
+    "gl_code": "86000",
+    "name": "86000 - Other Non-Operating Expenses"
+  },
+  {
+    "parent_order": 3,
+    "parent_category": "Expenses",
+    "category": "Other Expenses",
+    "category_order": 14,
+    "gl_code": "86010",
+    "name": "86010 - Loan Closing Costs"
+  },
+  {
+    "parent_order": 5,
+    "parent_category": "Special Income for Capital Projects",
+    "category": "Special Income for Capital Projects",
+    "category_order": 15,
+    "gl_code": "41010",
+    "name": "41010 - Capital Assessment 1"
+  },
+  {
+    "parent_order": 5,
+    "parent_category": "Special Income for Capital Projects",
+    "category": "Special Income for Capital Projects",
+    "category_order": 15,
+    "gl_code": "41011",
+    "name": "41011 - Capital Assessment 2"
+  },
+  {
+    "parent_order": 5,
+    "parent_category": "Special Income for Capital Projects",
+    "category": "Special Income for Capital Projects",
+    "category_order": 15,
+    "gl_code": "41012",
+    "name": "41012 - Capital Assessment 3"
+  },
+  {
+    "parent_order": 5,
+    "parent_category": "Special Income for Capital Projects",
+    "category": "Special Income for Capital Projects",
+    "category_order": 15,
+    "gl_code": "49100",
+    "name": "49100 - Transfer from the Capex Savings Acct"
+  },
+  {
+    "parent_order": 6,
+    "parent_category": "Projects & Capital Expenditures",
+    "category": "Projects & Capital Expenditures",
+    "category_order": 16,
+    "gl_code": "56",
+    "name": "Projects & Capital Expenditures"
+  },
+  {
+    "parent_order": 6,
+    "parent_category": "Projects & Capital Expenditures",
+    "category": "Projects & Capital Expenditures",
+    "category_order": 16,
+    "gl_code": "51235",
+    "name": "51235 - Engineer/Architect Expense"
+  },
+  {
+    "parent_order": 6,
+    "parent_category": "Projects & Capital Expenditures",
+    "category": "Projects & Capital Expenditures",
+    "category_order": 16,
+    "gl_code": "56000",
+    "name": "56000 - Capex"
+  },
+  {
+    "parent_order": 6,
+    "parent_category": "Projects & Capital Expenditures",
+    "category": "Projects & Capital Expenditures",
+    "category_order": 16,
+    "gl_code": "56001",
+    "name": "56001 - Capital Projects Legal"
+  },
+  {
+    "parent_order": 6,
+    "parent_category": "Projects & Capital Expenditures",
+    "category": "Projects & Capital Expenditures",
+    "category_order": 16,
+    "gl_code": "61500",
+    "name": "61500 - Contribution (Transfer to) Capex Account"
+  },
+  {
+    "parent_order": 6,
+    "parent_category": "Projects & Capital Expenditures",
+    "category": "Projects & Capital Expenditures",
+    "category_order": 16,
+    "gl_code": "56011",
+    "name": "56011 - Capital Projects Legal"
+  },
+  {
+    "parent_order": 6,
+    "parent_category": "Projects & Capital Expenditures",
+    "category": "Projects & Capital Expenditures",
+    "category_order": 16,
+    "gl_code": "56010",
+    "name": "56010 - Advisory Capital Mgmt Fees"
+  },
+  {
+    "parent_order": 0,
+    "parent_category": "Bank Accounts",
+    "category": "Bank Accounts",
+    "category_order": 0,
+    "gl_code": "#N/A",
+    "name": "Bank Accounts"
+  },
+  {
+    "parent_order": 0.1,
+    "parent_category": "Beginning balance Operating Cash account",
+    "category": "Beginning balance Operating Cash account",
+    "category_order": 0.1,
+    "gl_code": "#N/A",
+    "name": "Beginning balance Operating Cash account"
+  },
+  {
+    "parent_order": 0.2,
+    "parent_category": "Beginning balance Reserve Cash Account",
+    "category": "Beginning balance Reserve Cash Account",
+    "category_order": 0.2,
+    "gl_code": "#N/A",
+    "name": "Beginning balance Reserve Cash Account"
+  },
+  {
+    "parent_order": 0.3,
+    "parent_category": "Beginning balance Capital Project Cash Account",
+    "category": "Beginning balance Capital Project Cash Account",
+    "category_order": 0.3,
+    "gl_code": "#N/A",
+    "name": "Beginning balance Capital Project Cash Account"
+  }
+]
