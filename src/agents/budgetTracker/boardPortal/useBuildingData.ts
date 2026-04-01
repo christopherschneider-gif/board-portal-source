@@ -67,7 +67,7 @@ export function useBuildingData() {
           .limit(1)
           .maybeSingle(),
         supabase
-          .from('mortgages')
+          .from('v_mortgage_board_portal')
           .select('*')
           .eq('building_id', selectedBuildingId),
         supabase
