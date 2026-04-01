@@ -11,6 +11,7 @@ import { ExpensesTab } from './components/ExpensesTab'
 import { PayrollTab } from './components/PayrollTab'
 import { InsuranceTab } from './components/InsuranceTab'
 import { MortgageTab } from './components/MortgageTab'
+import { PropertyTaxTab } from './components/PropertyTaxTab'
 import { ComplianceTab } from './components/ComplianceTab'
 import { ReservesTab } from './components/ReservesTab'
 import type { TabId } from './lib/types'
@@ -44,6 +45,7 @@ var TABS: { id: TabId; label: string; icon: typeof Table2 }[] = [
   { id: 'expenses', label: 'Significant Expenses', icon: PieChart },
   { id: 'payroll', label: 'Payroll', icon: Users },
   { id: 'insurance', label: 'Insurance', icon: Shield },
+  { id: 'propertytax', label: 'Property Tax', icon: Building2 },
   { id: 'mortgage', label: 'Mortgage', icon: Landmark },
   { id: 'compliance', label: 'Compliance', icon: Shield },
   { id: 'reserves', label: 'Reserve Adequacy', icon: PiggyBank },
@@ -119,7 +121,8 @@ export function BoardPortal() {
             {activeTab === 'income' && <IncomeTab building={data.selectedBuilding} lineItems={data.lineItems.filter(function(i) { return i.category === 'income' })} />}
             {activeTab === 'expenses' && <ExpensesTab building={data.selectedBuilding} lineItems={data.lineItems.filter(function(i) { return i.category === 'expense' })} />}
             {activeTab === 'payroll' && <PayrollTab building={data.selectedBuilding} records={data.payroll} />}
-            {activeTab === 'insurance' && <InsuranceTab building={data.selectedBuilding} policies={data.insurance} />}
+            {activeTab === 'insurance' && <InsuranceTab building={data.selectedBuilding} policies={data.insurance} budget={data.insuranceBudget} />}
+            {activeTab === 'propertytax' && <PropertyTaxTab building={data.selectedBuilding} assessments={data.propertyTax} />}
             {activeTab === 'mortgage' && <MortgageTab building={data.selectedBuilding} loans={data.mortgages} />}
             {activeTab === 'compliance' && <ComplianceTab building={data.selectedBuilding} />}
             {activeTab === 'reserves' && <ReservesTab building={data.selectedBuilding} lineItems={data.lineItems} />}

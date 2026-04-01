@@ -2,16 +2,17 @@ import { useMemo } from 'react'
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts'
-import { Shield, DollarSign, TrendingUp, Calendar } from 'lucide-react'
+import { Shield, DollarSign, TrendingUp, Calendar, Target } from 'lucide-react'
 import { formatCurrency, formatPercent } from '../lib/format'
-import type { Building, InsurancePolicy } from '../lib/types'
+import type { Building, InsurancePolicy, InsuranceBudget } from '../lib/types'
 
 interface Props {
   building: Building | null
   policies: InsurancePolicy[]
+  budget: InsuranceBudget | null
 }
 
-export function InsuranceTab({ building, policies }: Props) {
+export function InsuranceTab({ building, policies, budget }: Props) {
   const stats = useMemo(() => {
     const totalPremium = policies.reduce((s, p) => s + (p.annual_premium || 0), 0)
     const totalPrior = policies.reduce((s, p) => s + (p.prior_year_premium || 0), 0)
@@ -99,6 +100,39 @@ export function InsuranceTab({ building, policies }: Props) {
           </p>
         </div>
       </div>
+
+      {/* Budget Projection */}
+      {budget && (
+        <div className="rounded-lg border border-gray-200 bg-white p-5 mb-8">
+          <h3 className="font-display text-lg text-[#1B4332] mb-4 flex items-center gap-2">
+            <Target className="h-5 w-5 text-[#2D7A4F]" />
+            FY {budget.budget_year} Budget Projection
+          </h3>
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-6">
+            <div>
+              <p className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-1">Current Premium</p>
+              <p className="font-display text-xl text-[#1B4332]">{formatCurrency(budget.current_annual_premium)}</p>
+            </div>
+            <div>
+              <p className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-1">Escalation Rate</p>
+              <p className="font-display text-xl text-[#1B4332]">{(budget.escalation_rate * 100).toFixed(1)}%</p>
+            </div>
+            <div>
+              <p className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-1">Projected Premium</p>
+              <p className="font-display text-xl text-[#1B4332] font-semibold">{formatCurrency(budget.projected_premium)}</p>
+            </div>
+            <div>
+              <p className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-1">Projected Increase</p>
+              <p className="font-display text-xl text-red-600">
+                {formatCurrency(budget.projected_premium - budget.current_annual_premium)}
+              </p>
+            </div>
+          </div>
+          <p className="text-[11px] text-gray-400 mt-3">
+            Calculated {new Date(budget.calculation_date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })} · {budget.policy_count} policies · Basis: {budget.notes || 'Agent calculation'}
+          </p>
+        </div>
+      )}
 
       {/* Chart + Table side by side */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">

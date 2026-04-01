@@ -82,6 +82,41 @@ export interface MortgageLoan {
   loan_type: string
 }
 
+export interface PropertyTaxAssessment {
+  id: string
+  building_id: string
+  tax_year: number
+  bbl: string
+  borough_code: string
+  borough_name: string
+  block_number: string
+  lot_number: string
+  fy_start_date: string
+  fy_end_date: string
+  tax_rate: number
+  tax_class: string
+  assessed_value: number
+  market_value: number
+  gross_tax: number
+  abatement_credits: number
+  annual_amount: number
+  quarterly_payment: number
+  protest_status: string
+}
+
+export interface InsuranceBudget {
+  id: string
+  building_id: string
+  budget_year: number
+  current_annual_premium: number
+  escalation_rate: number
+  projected_premium: number
+  policy_count: number
+  coverage_types: string[]
+  calculation_date: string
+  notes: string
+}
+
 export type TabId =
   | 'intro'
   | 'summary'
@@ -93,6 +128,7 @@ export type TabId =
   | 'expenses'
   | 'payroll'
   | 'insurance'
+  | 'propertytax'
   | 'mortgage'
   | 'compliance'
   | 'reserves'

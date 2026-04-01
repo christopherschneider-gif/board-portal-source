@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { supabase } from './lib/supabase'
-import type { Building, BudgetLineItem, PayrollRecord, InsurancePolicy, MortgageLoan, PropertyTaxAssessment } from './lib/types'
+import type { Building, BudgetLineItem, PayrollRecord, InsurancePolicy, InsuranceBudget, MortgageLoan, PropertyTaxAssessment } from './lib/types'
 
 export function useBuildingData() {
   const [buildings, setBuildings] = useState<Building[]>([])
@@ -8,6 +8,7 @@ export function useBuildingData() {
   const [lineItems, setLineItems] = useState<BudgetLineItem[]>([])
   const [payroll, setPayroll] = useState<PayrollRecord[]>([])
   const [insurance, setInsurance] = useState<InsurancePolicy[]>([])
+  const [insuranceBudget, setInsuranceBudget] = useState<InsuranceBudget | null>(null)
   const [mortgages, setMortgages] = useState<MortgageLoan[]>([])
   const [propertyTax, setPropertyTax] = useState<PropertyTaxAssessment[]>([])
   const [loading, setLoading] = useState(true)
@@ -44,7 +45,7 @@ export function useBuildingData() {
     async function fetchAll() {
       setLoading(true)
 
-      const [lineRes, payRes, insRes, mortRes, ptaxRes] = await Promise.all([
+      const [lineRes, payRes, insRes, insBudgetRes, mortRes, ptaxRes] = await Promise.all([
         supabase
           .from('budget_line_items')
           .select('*')
@@ -58,6 +59,13 @@ export function useBuildingData() {
           .from('v_insurance_board_portal')
           .select('*')
           .eq('building_id', selectedBuildingId),
+        supabase
+          .from('v_insurance_budget_board_portal')
+          .select('*')
+          .eq('building_id', selectedBuildingId)
+          .order('budget_year', { ascending: false })
+          .limit(1)
+          .maybeSingle(),
         supabase
           .from('mortgages')
           .select('*')
@@ -76,6 +84,7 @@ export function useBuildingData() {
       setLineItems(lineRes.data || [])
       setPayroll(payRes.data || [])
       setInsurance(insRes.data || [])
+      setInsuranceBudget(insBudgetRes.data || null)
       setMortgages(mortRes.data || [])
       setPropertyTax(ptaxRes.data || [])
       setLoading(false)
@@ -118,6 +127,7 @@ export function useBuildingData() {
     lineItems,
     payroll,
     insurance,
+    insuranceBudget,
     mortgages,
     propertyTax,
     loading,
