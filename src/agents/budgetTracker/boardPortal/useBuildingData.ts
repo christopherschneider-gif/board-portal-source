@@ -80,6 +80,9 @@ export function useBuildingData() {
       if (lineRes.error) {
         setError('Failed to load budget: ' + lineRes.error.message)
       }
+      if (insBudgetRes.error) {
+        console.warn('Insurance budget fetch:', insBudgetRes.error.message)
+      }
 
       setLineItems(lineRes.data || [])
       setPayroll(payRes.data || [])
